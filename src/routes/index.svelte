@@ -20,3 +20,4 @@
 
 <Header title="My Biography" />
 <Section {...myInfo}/>
+<Section {...myHobby}/>
